@@ -1,4 +1,2 @@
 Hi All, We are IEEE SB MMMUT.
-This is the feature branch!!!!!!!!!!
-
-This is from MMMUT!
+This is the feature branch,
